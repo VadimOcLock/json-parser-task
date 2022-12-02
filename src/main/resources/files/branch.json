@@ -1,0 +1,1304 @@
+[
+    {
+        "id": "D4",
+        "description": "Няганская ГРЭС",
+        "parId": "",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0",
+        "description": "Общестанционная часть",
+        "parId": "D4",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00",
+        "description": "ОРУ 500 кВ",
+        "parId": "D4B0",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABB08",
+        "description": "Система сборных шин 500 кВ 1СШ-500",
+        "parId": "D4B0A00",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABB09",
+        "description": "Система сборных шин 500 кВ 2СШ-500",
+        "parId": "D4B0A00",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ01",
+        "description": "Ячейка 1 ОРУ 500 кВ 1АТ",
+        "parId": "D4B0A00",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ01GL001",
+        "description": "Реактор Р-500 (ф. А) 1*60 Мвар",
+        "parId": "D4B0A00ABQ01",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ01GL002",
+        "description": "Реактор Р-500 (ф. В) 1*60 Мвар",
+        "parId": "D4B0A00ABQ01",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ01GL003",
+        "description": "Реактор Р-500 (ф. С) 1*60 Мвар",
+        "parId": "D4B0A00ABQ01",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ01GL004",
+        "description": "Реактор Р-500 (ф. R) 1*60 Мвар",
+        "parId": "D4B0A00ABQ01",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ01GS001",
+        "description": "Разъединитель ТР-500 1АТ",
+        "parId": "D4B0A00ABQ01",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ01GT001",
+        "description": "Автотрансформатор 1АТ",
+        "parId": "D4B0A00ABQ01",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ01GT002",
+        "description": "Трансформатор напряжения ТН-500 ТС 1АТ",
+        "parId": "D4B0A00ABQ01",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ01GV001",
+        "description": "Ограничитель перенапр. ОПН-500 1AT",
+        "parId": "D4B0A00ABQ01",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ01GV002",
+        "description": "Ограничитель перенапр. ОПН-220 1AT",
+        "parId": "D4B0A00ABQ01",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ01GV003",
+        "description": "Ограничитель перенапр. ОПН-500 Р-Луговая",
+        "parId": "D4B0A00ABQ01",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ01GV004",
+        "description": "Заземляющий нож ЗН АТ ТР-500 1АТ",
+        "parId": "D4B0A00ABQ01",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ02",
+        "description": "Ячейка 2 ОРУ 500 кВ",
+        "parId": "D4B0A00",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ02GS001",
+        "description": "Выкл.элегазовый В-500 Р Луговая",
+        "parId": "D4B0A00ABQ02",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ02GS002",
+        "description": "Разъединитель РР-500 Луговая",
+        "parId": "D4B0A00ABQ02",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ02GV001",
+        "description": "ОПН-500 Р-Луговая",
+        "parId": "D4B0A00ABQ02",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ02GV002",
+        "description": "Заземляющий нож ЗН В РР-500 Луговая",
+        "parId": "D4B0A00ABQ02",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03",
+        "description": "Ячейка 3 ОРУ 500 кВ",
+        "parId": "D4B0A00",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GS001",
+        "description": "Выкл.элегазовый В-500 ВШТ-11",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GS002",
+        "description": "Выкл.элегазовый В-500 ВЛТ-10",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GS003",
+        "description": "Выкл.элегазовый В-500 ВШЛ-12",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GS004",
+        "description": "Разъединитель ШР-500 11ТН",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GS005",
+        "description": "Разъединитель ШР-500 ВШТ-11",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GS006",
+        "description": "Разъединитель РТС-500 ВШТ-11",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GS007",
+        "description": "Разъединитель РТС-500 ВЛТ-10",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GS008",
+        "description": "Разъединитель РЛС-500 ВЛТ-10",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GS009",
+        "description": "Разъединитель РЛС-500 ВШЛ-12",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GS010",
+        "description": "Разъединитель ШР-500 ВШЛ-12",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GS011",
+        "description": "Разъединитель ШР-500 21ТН",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GT001",
+        "description": "Тансформатор напряжения 11ТН-500",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GT002",
+        "description": "Тансформатор напряжения 21ТН-500",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GV001",
+        "description": "Заземляющий нож ЗН 11ТН-500",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GV002",
+        "description": "Заземляющий нож ЗН В ШР-500 ВШТ-11",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GV003",
+        "description": "Заземляющий нож ЗН В РТС-500 ВШТ-11",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GV004",
+        "description": "Заземляющий нож ЗН ТС РТС-500 ВШТ-11",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GV005",
+        "description": "Заземляющий нож ЗН ТС РТС-500 ВЛТ-10",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GV006",
+        "description": "Заземляющий нож ЗН В РТС-500 ВЛТ-10",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GV007",
+        "description": "Заземляющий нож ЗН В РЛС-500 ВЛТ-10",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GV008",
+        "description": "Заземляющий нож ЗН ЛС РЛС-500 ВЛТ-10",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GV009",
+        "description": "Заземляющий нож ЗН ЛС РЛС-500 ВШЛ-12",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GV010",
+        "description": "Заземляющий нож ЗН ЛС РЛС-500 ВШЛ-12",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GV011",
+        "description": "Заземляющий нож ЗН В РЛС-500 ВШЛ-12",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GV012",
+        "description": "Заземляющий нож ЗН В ШР-500 ВШЛ-12",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GV013",
+        "description": "Заземляющий нож ЗН 2СШ ШР-500 ВШЛ-12",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ03GV014",
+        "description": "Заземляющий нож ЗН 21ТН-500",
+        "parId": "D4B0A00ABQ03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ04",
+        "description": "Ячейка 4 ОРУ 500 кВ Луговая",
+        "parId": "D4B0A00",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ04GS001",
+        "description": "Разъединитель ЛР-500 Луговая",
+        "parId": "D4B0A00ABQ04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ04GT001",
+        "description": "Трансформ. напряжения ТН-500 ВЛ Луговая",
+        "parId": "D4B0A00ABQ04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ04GT002",
+        "description": "Трансформ. напряжения ТН-500 ЛС Луговая",
+        "parId": "D4B0A00ABQ04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ04GT003",
+        "description": "Трансформатор тока ТТ-500 Луговая",
+        "parId": "D4B0A00ABQ04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ04GV001",
+        "description": "Ограничитель перенапр. ОПН-500 Луговая",
+        "parId": "D4B0A00ABQ04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ04GV002",
+        "description": "Заземляющий нож ЗН ВЛ ЛР-500 Луговая",
+        "parId": "D4B0A00ABQ04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ04KC001",
+        "description": "ВЧЗ Луговая ф. А",
+        "parId": "D4B0A00ABQ04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ04KC002",
+        "description": "ВЧЗ Луговая ф. В",
+        "parId": "D4B0A00ABQ04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ04KC003",
+        "description": "ВЧЗ Луговая ф. С",
+        "parId": "D4B0A00ABQ04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ05",
+        "description": "Ячейка 5 ОРУ 500 кВ",
+        "parId": "D4B0A00",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ05GS001",
+        "description": "Разъединитель ТР-500 3Т",
+        "parId": "D4B0A00ABQ05",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ05GV001",
+        "description": "Ограничитель перенапр. ОПН-500 3Т",
+        "parId": "D4B0A00ABQ05",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ05GV002",
+        "description": "Заземляющий нож ЗН Т ТР-500 3Т",
+        "parId": "D4B0A00ABQ05",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06",
+        "description": "Ячейка 6 ОРУ 500 кВ",
+        "parId": "D4B0A00",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GS001",
+        "description": "Выкл.элегазовый В-500 ВШЛ-21",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GS002",
+        "description": "Выкл.элегазовый В-500 ВЛБ-20",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GS003",
+        "description": "Выкл.элегазовый В-500 Р ВШБ-22",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GS004",
+        "description": "Разъединитель ШР-500 12ТН",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GS005",
+        "description": "Разъединитель ШР-500 ВШЛ-21",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GS006",
+        "description": "Разъединитель РЛС-500 ВШЛ-21",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GS007",
+        "description": "Разъединитель РЛС-500 ВЛБ-20",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GS008",
+        "description": "Разъединитель РТС-500 ВЛБ-20",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GS009",
+        "description": "Разъединитель РТС-500 ВШБ-22",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GS010",
+        "description": "Разъединитель ШР-500 ВШБ-22",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GS011",
+        "description": "Разъединитель ШР-500 22ТН",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GT001",
+        "description": "Тансформатор напряжения 12ТН-500",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GT002",
+        "description": "Тансформатор напряжения 22ТН-500",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GV001",
+        "description": "Заземляющий нож ЗН 12ТН-500",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GV002",
+        "description": "Заземляющий нож ЗН 1СШ ШР-500 12ТН",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GV003",
+        "description": "Заземляющий нож ЗН 1СШ ШР-500 ВШЛ-21",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GV004",
+        "description": "Заземляющий нож ЗН В ШР-500 ВШЛ-21",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GV005",
+        "description": "Заземляющий нож ЗН В РЛС-500 ВШЛ-21",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GV006",
+        "description": "Заземляющий нож ЗН ЛС РЛС-500 ВШЛ-21",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GV007",
+        "description": "Заземляющий нож ЗН ЛС РЛС-500 ВЛБ-20",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GV008",
+        "description": "Заземляющий нож ЗН В РЛС-500 ВЛБ-20",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GV009",
+        "description": "Заземляющий нож ЗН В РТС-500 ВЛБ-20",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GV010",
+        "description": "Заземляющий нож ЗН ТС РТС-500 ВЛБ-20",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GV011",
+        "description": "Заземляющий нож ЗН ТС РТС-500 ВШБ-22",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GV012",
+        "description": "Заземляющий нож ЗН В РТС-500 ВШБ-22",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GV013",
+        "description": "Заземляющий нож ЗН В ШР-500 ВШБ-22",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GV014",
+        "description": "Заземляющий нож ЗН 2СШ ШР-500 ВШБ-22",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GV015",
+        "description": "Заземляющий нож ЗН 2СШ ШР-500 22ТН",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ06GV016",
+        "description": "Заземляющий нож ЗН 22ТН-500",
+        "parId": "D4B0A00ABQ06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ07",
+        "description": "Ячейка 7 ОРУ 500 кВ Ильково",
+        "parId": "D4B0A00",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ07GS001",
+        "description": "Разъединитель ЛР-500 Ильково",
+        "parId": "D4B0A00ABQ07",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ07GT001",
+        "description": "Трансформ. напряжения ТН-500 ВЛ Ильково",
+        "parId": "D4B0A00ABQ07",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ07GT002",
+        "description": "Трансформ. напряжения ТН-500 ЛС Ильково",
+        "parId": "D4B0A00ABQ07",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ07GT003",
+        "description": "Трансформатор тока ТТ-500 Ильково",
+        "parId": "D4B0A00ABQ07",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ07GV001",
+        "description": "Ограничитель перенапр. ОПН-500 Ильково",
+        "parId": "D4B0A00ABQ07",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ07GV002",
+        "description": "Заземляющий нож ЗН ВЛ ЛР-500 Ильково",
+        "parId": "D4B0A00ABQ07",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ07KC001",
+        "description": "ВЧЗ Ильково Ф. А",
+        "parId": "D4B0A00ABQ07",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ07KC002",
+        "description": "ВЧЗ Ильково Ф. В",
+        "parId": "D4B0A00ABQ07",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABQ07KC003",
+        "description": "ВЧЗ Ильково Ф. С",
+        "parId": "D4B0A00ABQ07",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY01",
+        "description": "РЗА Ячейки 1 ОРУ 500 кВ 1АТ",
+        "parId": "D4B0A00",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY01EP001",
+        "description": "Вторичные цепи ТТ 1АТ",
+        "parId": "D4B0A00ABY01",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY01EP002",
+        "description": "Маслоуказатель TINE 52. Вторичные цепи.",
+        "parId": "D4B0A00ABY01",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY01EP003",
+        "description": "Вторичное оборудование ТН-500 ТС 1АТ",
+        "parId": "D4B0A00ABY01",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY01EW001",
+        "description": "ДЗО-500 1к 1АТ (ШЭ2607 051051)",
+        "parId": "D4B0A00ABY01",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY01EW002",
+        "description": "ДЗО-500 2к 1АТ (ШЭ2607 051051)",
+        "parId": "D4B0A00ABY01",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY01EW003",
+        "description": "РЗ 500 1АТ (ДЗ, ТЗНП, МТЗ) (ШЭ2710 572)",
+        "parId": "D4B0A00ABY01",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY01EW004",
+        "description": "ДЗТ, ГЗ, КИВ, ПТ (ШЭ2710 542) 1 комплект",
+        "parId": "D4B0A00ABY01",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY01EW005",
+        "description": "ДЗТ, ГЗ, КИВ, ПТ (ШЭ2710 542) 2 комплект",
+        "parId": "D4B0A00ABY01",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY01EW006",
+        "description": "Автоматика охлаждения",
+        "parId": "D4B0A00ABY01",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY01EW007",
+        "description": "Регулятор РПН REG-DA",
+        "parId": "D4B0A00ABY01",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY01EW008",
+        "description": "Газовая защита BF80/10, BF25/10",
+        "parId": "D4B0A00ABY01",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY02",
+        "description": "РЗА Ячейки 2 Р 500кВ Луговая",
+        "parId": "D4B0A00",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY02EW001",
+        "description": "Продольная ДЗР, Поперечная ДЗР 1 комп.",
+        "parId": "D4B0A00ABY02",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY02EW002",
+        "description": "Продольная ДЗР, Поперечная ДЗР 2 комп.",
+        "parId": "D4B0A00ABY02",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY02EW003",
+        "description": "СУМТО Р 500кВ Луговая",
+        "parId": "D4B0A00ABY02",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY02EW004",
+        "description": "АУВ(автомат.упр.выключ.) В-500 Р Луговая",
+        "parId": "D4B0A00ABY02",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY02EW005",
+        "description": "Газовая защита BF80/Q Р 500кВ Луговая",
+        "parId": "D4B0A00ABY02",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY03",
+        "description": "РЗА Ячейки 3 ОРУ 500 кВ",
+        "parId": "D4B0A00",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY03EP001",
+        "description": "Вторичные цепи ТТ В-500 ВЛТ-10",
+        "parId": "D4B0A00ABY03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY03EP002",
+        "description": "Вторичные цепи ТТ В-500 ВШЛ-12",
+        "parId": "D4B0A00ABY03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY03EP003",
+        "description": "Вторичные цепи ТТ В-500 ВШТ-11",
+        "parId": "D4B0A00ABY03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY03EW001",
+        "description": "Комплект РЗА В-500 ВЛТ-10",
+        "parId": "D4B0A00ABY03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY03EW002",
+        "description": "Комплект РЗА В-500 ВШЛ-12",
+        "parId": "D4B0A00ABY03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY03EW003",
+        "description": "Комплект РЗА В-500 ВШТ-11",
+        "parId": "D4B0A00ABY03",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY04",
+        "description": "РЗА Ячейки 4 ОРУ 500 кВ Луговая",
+        "parId": "D4B0A00",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY04EP001",
+        "description": "Вторичное оборудование ТН-500 ВЛ Луговая",
+        "parId": "D4B0A00ABY04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY04EP002",
+        "description": "Вторичное оборудование ТН-500 ЛС Луговая",
+        "parId": "D4B0A00ABY04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY04EP003",
+        "description": "Вторичные цепи ТТ 500 ВЛ Луговая",
+        "parId": "D4B0A00ABY04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY04EP004",
+        "description": "Маслоуказатель МС-2. Вторичные цепи.",
+        "parId": "D4B0A00ABY04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY04EP005",
+        "description": "Вторичные цепи ТТ В-500 Р Луговая",
+        "parId": "D4B0A00ABY04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY04EP006",
+        "description": "Вторичные цепи ТТ Р-500 Луговая",
+        "parId": "D4B0A00ABY04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY04EW001",
+        "description": "ДФЗ ВЛ 500 кВ НГРЭС- Луговая",
+        "parId": "D4B0A00ABY04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY04EW002",
+        "description": "РЗ 1к ВЛ 500 кВ НГРЭС- Луговая",
+        "parId": "D4B0A00ABY04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY04EW003",
+        "description": "РЗ 2к ВЛ 500 кВ НГРЭС- Луговая",
+        "parId": "D4B0A00ABY04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY04EW004",
+        "description": "ИМФ 3Р ВЛ 500 кВ НГРЭС- Луговая",
+        "parId": "D4B0A00ABY04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY04EW005",
+        "description": "РАС ВЛ-500 кВ ВЛ 500 кВ НГРЭС- Луговая",
+        "parId": "D4B0A00ABY04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY04EW006",
+        "description": "ПРД АКА 16 кГц ВЛ 500 кВ НГРЭС- Луговая",
+        "parId": "D4B0A00ABY04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY04EW007",
+        "description": "ПРМ АКА 20 кГц ВЛ 500 кВ НГРЭС- Луговая",
+        "parId": "D4B0A00ABY04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY04EW008",
+        "description": "МКПА 1 комплект ВЛ 500 кВ НГРЭС- Луговая",
+        "parId": "D4B0A00ABY04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY04EW009",
+        "description": "МКПА 2 комплект ВЛ 500 кВ НГРЭС- Луговая",
+        "parId": "D4B0A00ABY04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY04EW010",
+        "description": "Фильтр присоед.ВЛ-500 Луговая ф. А",
+        "parId": "D4B0A00ABY04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY04EW011",
+        "description": "Фильтр присоед.ВЛ-500 Луговая ф. В",
+        "parId": "D4B0A00ABY04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY04EW012",
+        "description": "Фильтр присоед.ВЛ-500 Луговая ф. С",
+        "parId": "D4B0A00ABY04",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY05",
+        "description": "РЗА Ячейки 5 ОРУ 500 кВ Луговая",
+        "parId": "D4B0A00",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY05EW001",
+        "description": "ДЗО-500 1к 3Т (ШЭ2607 051051)",
+        "parId": "D4B0A00ABY05",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY05EW002",
+        "description": "ДЗО-500 2к 3Т (ШЭ2607 051051)",
+        "parId": "D4B0A00ABY05",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY06",
+        "description": "РЗА Ячейки 6 ОРУ 500 кВ",
+        "parId": "D4B0A00",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY06EP001",
+        "description": "Вторичные цепи ТТ В-500 ВЛБ-20",
+        "parId": "D4B0A00ABY06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY06EP002",
+        "description": "Вторичные цепи ТТ В-500 ВШБ-22",
+        "parId": "D4B0A00ABY06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY06EP003",
+        "description": "Вторичные цепи ТТ В-500 ВШЛ-2",
+        "parId": "D4B0A00ABY06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY06EW001",
+        "description": "Комплект РЗА В-500 ВЛБ-20",
+        "parId": "D4B0A00ABY06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY06EW002",
+        "description": "Комплект РЗА В-500 ВШБ-22",
+        "parId": "D4B0A00ABY06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY06EW003",
+        "description": "Комплект РЗА В-500 ВШЛ-21",
+        "parId": "D4B0A00ABY06",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY07",
+        "description": "РЗА Ячейки 7 ОРУ 500 кВ",
+        "parId": "D4B0A00",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY07EP001",
+        "description": "Вторичное оборуд. ТН-500 ВЛ Ильково",
+        "parId": "D4B0A00ABY07",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY07EP002",
+        "description": "Вторичное оборуд. ТН-500 ЛС Ильково",
+        "parId": "D4B0A00ABY07",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY07EP003",
+        "description": "Вторичные цепи ТТ 500 ВЛ Ильково",
+        "parId": "D4B0A00ABY07",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY07EW001",
+        "description": "ДФЗ ВЛ 500 кВ НГРЭС – Ильково",
+        "parId": "D4B0A00ABY07",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY07EW002",
+        "description": "РЗ 1к ВЛ 500 кВ НГРЭС - Ильково",
+        "parId": "D4B0A00ABY07",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY07EW003",
+        "description": "РЗ 2к ВЛ 500 кВ НГРЭС - Ильково",
+        "parId": "D4B0A00ABY07",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY07EW004",
+        "description": "ИМФ 3Р ВЛ 500 кВ НГРЭС - Ильково",
+        "parId": "D4B0A00ABY07",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY07EW005",
+        "description": "РАС ВЛ 500 кВ НГРЭС - Ильково",
+        "parId": "D4B0A00ABY07",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY07EW006",
+        "description": "ПРД АКА 100 кГц ВЛ 500кВ НГРЭС - Ильково",
+        "parId": "D4B0A00ABY07",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY07EW007",
+        "description": "ПРМ АКА 84 кГц ВЛ 500кВ НГРЭС - Ильково",
+        "parId": "D4B0A00ABY07",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY07EW008",
+        "description": "МКПА 1 компл. ВЛ 500 кВ НГРЭС - Ильково",
+        "parId": "D4B0A00ABY07",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY07EW009",
+        "description": "МКПА 2 компл. ВЛ 500 кВ НГРЭС - Ильково",
+        "parId": "D4B0A00ABY07",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY07EW010",
+        "description": "Фильтр присоед. ВЛ-500 Ильково ф. А",
+        "parId": "D4B0A00ABY07",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY07EW011",
+        "description": "Фильтр присоед. ВЛ-500 Ильково ф. В",
+        "parId": "D4B0A00ABY07",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY07EW012",
+        "description": "Фильтр присоед. ВЛ-500 Ильково ф. С",
+        "parId": "D4B0A00ABY07",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY08",
+        "description": "РЗА Система сборных шин 500 кВ 1СШ-500",
+        "parId": "D4B0A00",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY08EP001",
+        "description": "Вторичное оборудование 11ТН-500",
+        "parId": "D4B0A00ABY08",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY08EP002",
+        "description": "Вторичное оборудование 12ТН-500",
+        "parId": "D4B0A00ABY08",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY08EW001",
+        "description": "ДЗШ 1к 1СШ-500 (ШЭ2710 562)",
+        "parId": "D4B0A00ABY08",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY08EW002",
+        "description": "ДЗШ 2к 1СШ-500 (ШЭ2710 562)",
+        "parId": "D4B0A00ABY08",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY09",
+        "description": "РЗА Система сборных шин 500 кВ 2СШ-500",
+        "parId": "D4B0A00",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY09EP001",
+        "description": "Вторичное оборудование 21ТН-500",
+        "parId": "D4B0A00ABY09",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY09EP002",
+        "description": "Вторичное оборудование 22ТН-500",
+        "parId": "D4B0A00ABY09",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY09EW001",
+        "description": "ДЗШ 1к 2СШ-500 (ШЭ2710 562)",
+        "parId": "D4B0A00ABY09",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00ABY09EW002",
+        "description": "ДЗШ 2к 2СШ-500 (ШЭ2710 562)",
+        "parId": "D4B0A00ABY09",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00APA01",
+        "description": "Оперативный контур управления ОРУ 500 кВ",
+        "parId": "D4B0A00",
+        "sortField": "",
+        "typeId": 0
+    },
+    {
+        "id": "D4B0A00APA01EA001",
+        "description": "Система мониторинга переходных режимов",
+        "parId": "D4B0A00APA01",
+        "sortField": "",
+        "typeId": 0
+    }
+]
